@@ -1,0 +1,36 @@
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\bin\Debug\İkinciElSahaf.exe.config
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\bin\Debug\İkinciElSahaf.exe
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\bin\Debug\İkinciElSahaf.pdb
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.csprojResolveAssemblyReference.cache
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.Properties.Resources.resources
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.csproj.GenerateResource.Cache
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.exe
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.pdb
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapEkleme.resources
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapTürEkleme.resources
+c:\users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.YazarEkleme.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapListeleme.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapSatışlarınıListeleme.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.YöneticiGirişSayfası.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.Anasayfa.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.SifreGüncelle.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.ÜyeEkleme.resources
+C:\Users\sibelmirac\documents\visual studio 2013\Projects\İkinciElSahaf\İkinciElSahaf\obj\Debug\İkinciElSahaf.ÜyeListeleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\bin\Debug\İkinciElSahaf.exe.config
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.exe
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.pdb
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\bin\Debug\İkinciElSahaf.exe
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\bin\Debug\İkinciElSahaf.pdb
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.csprojResolveAssemblyReference.cache
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.YöneticiGirişSayfası.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.Anasayfa.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.SifreGüncelle.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapEkleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapListeleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapSatışlarınıListeleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.KitapTürEkleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.ÜyeEkleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.ÜyeListeleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.Properties.Resources.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.YazarEkleme.resources
+C:\Users\sibelmirac\Documents\Visual Studio 2013\Projects\Sahaf Projesi\İkinciElSahaf\obj\Debug\İkinciElSahaf.csproj.GenerateResource.Cache
